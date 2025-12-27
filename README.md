@@ -41,6 +41,18 @@ The focus is on answering **business questions** (revenue, customer behavior, se
 
 ---
 
+## Analytical Insights Enabled
+
+- Revenue concentration across products/categories  
+- High-value customer identification (AOV/CLTV)  
+- Time-based sales patterns (monthly + weekday/weekend)  
+- Seller performance stratification (rank/percentile)  
+- Inventory stockout risk detection  
+- Shipping delay/return monitoring  
+- Payment success/failure monitoring  
+
+---
+
 ## Key Skills Demonstrated
 
 - SQL joins (inner/left), aggregations, grouping
